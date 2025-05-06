@@ -1,0 +1,10 @@
+Back:
+cd iot-backend
+npm install
+node index.js
+WebSocket server started at ws://localhost:8080
+Connected to MQTT Broker
+FRONT:
+cd iot-frontend
+npm install
+npm start
