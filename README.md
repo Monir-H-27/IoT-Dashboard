@@ -56,8 +56,4 @@ iot-full-project/
 - Flame sensor (analog)  
 - (Optional) PIR Motion sensor  
 
----
 
-## 📌 License
-
-This project is licensed under the MIT License.
